@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - www.linkedin.com/in/devon-burelle-644a60222
 - HTB : SwordBreaker
-- Email : burelledevon@gmail.com
+
 
 <!---
 SwordBreak3r/SwordBreak3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
