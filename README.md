@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwordBreak3r
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning the basics!
+- 🌱 I’m currently learning web dev with PHP.
 - 💞️ I’m looking to collaborate on CTFs
 - 📫 How to reach me ...
 - www.linkedin.com/in/devon-burelle-644a60222
